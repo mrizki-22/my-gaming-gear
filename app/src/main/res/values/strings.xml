@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">MyLogitech</string>
+    <string-array name="data_photo">
+        <item>https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g433/g433-gallery-black-2.png?v=1</item>
+        <item>https://resource.logitech.com/content/dam/gaming/en/products/pro-wireless-gaming-mouse/pro-wireless-carbon-gallery-1.png</item>
+        <item>https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/g203/g203-gallery-1.png</item>
+        <item>https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/non-braid/g413-firebird/g413-gallery-1-nb.png</item>
+        <item>https://resource.logitech.com/content/dam/gaming/en/products/g903/g903-gallery-1.png</item>
+        <item>https://resource.logitech.com/content/dam/gaming/en/products/f710/f710-gallery-1.png</item>
+        <item>https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/drivingforce/g920-gallery-1-2.png</item>
+        <item>https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/non-braid/g213-finch/g213-gallery-1-nb.png</item>
+        <item>https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/g840/g840-gallery-1-new.png</item>
+        <item>https://resource.logitech.com/content/dam/logitech/en/products/webcams/c922/gallery/c922-gallery-1.png</item>
+        <item>https://resource.logitech.com/content/dam/gaming/en/products/g560/g560-gallery-1.png</item>
+ </string-array>
+
+    <string-array name="data_name">
+        <item>Logitech G433 7.1 Gaming Headset</item>
+        <item>Logitech G Pro Wireless Gaming Mouse</item>
+        <item>Logitech G102 RGB Gaming Mouse</item>
+        <item>Logitech G413 Mechanical Backlit Gaming Keyboard</item>
+        <item>Logitech G903 Lightspeed</item>
+        <item>Logitech F710 Wireless Gamepad</item>
+        <item>Logitech G29 Driving Force</item>
+        <item>Logitech G213 Prodigy Gaming Keyboard</item>
+        <item>Logitech G840 Gaming Mousepad</item>
+        <item>Logitech C922 Pro Stream Webcam</item>
+        <item>Logitech G560 Gaming Speaker</item>
+    </string-array>
+
+    <string-array name="data_description">
+
+        <item>
+            Logitech G433 gaming headset is the premium audio experience designed for life in and out of the game. Patent-pending Pro-G audio drivers smoothly deliver explosive DTS Headphone: X 7.1 surround sound. Vibrant color choices in a lightweight, stain-resistant fabric make G433 as wearable as your sneakers.
+        </item>
+        <item>
+            The Logitech G Pro Mouse is a high-performance gaming mouse designed to meet the demands of professional esports athletes and serious gamers alike. With its cutting-edge technology and ergonomic design, it offers a seamless and precise gaming experience that can give you the competitive edge you need.
+       </item>
+        <item>
+            Logitech G102 Prodigy Gaming Mouse can be used directly out-of-the-box, or can be fully configured using Logitech Gaming Software. Advanced users can configure any of the 6 buttons to simplify in-game actions.
+        </item>
+        <item>
+            The Logitech G413 Mechanical Backlit Gaming Keyboard is engineered to outperform the competition, giving you the edge in games where every millisecond matters. Featuring Romer-G switches, used by eSports professionals worldwide, G413 provides unparalleled speed, responsiveness and durability.
+        </item>
+        <item>
+            Logitech G903 Lightspeed Wireless Gaming Mouse W/Hero 16K Sensor, 140+ Hour with Rechargeable Battery and Lightsync RGB. Powerplay Compatible, Ambidextrous, 107G+10G optional, 16, 000 DPI.
+        </item>
+        <item>
+            The Logitech F710 Wireless Gamepad is a wireless gamepad that lets you play your favorite games on your PC or Mac. It features a 2.4 GHz wireless connection, dual vibration feedback motors, and a 10-foot range.
+        </item>
+        <item>
+            The Logitech G29 Driving Force is a racing wheel that is designed to be used with the PlayStation 4, PlayStation 3 and PC. It features a 900-degree rotation, force feedback, and an LED display.
+        </item>
+        <item>
+            The Logitech G213 Prodigy Gaming Keyboard is a keyboard that is designed for gamers. It features a full-size layout, RGB lighting, and a detachable wrist rest. The keyboard is also spill-resistant, so you don\'t have to worry about spills ruining your keyboard.
+        </item>
+        <item>
+            The Logitech G840 Gaming Mousepad is a mousepad that is designed for gamers. It features a large surface area, a non-slip rubber base, and a smooth cloth surface. The mousepad is also water-resistant, so you don\'t have to worry about spills ruining your mousepad.
+        </item>
+        <item>
+            The Logitech C922 Pro Stream Webcam is a webcam that is designed for streamers. It features a Full HD 1080p resolution, a 78-degree field of view, and a built-in microphone. The webcam is also compatible with Windows, Mac, and Chrome OS.
+        </item>
+        <item>
+            The Logitech G560 Gaming Speaker is a speaker that is designed for gamers. It features a 2.1 speaker system, RGB lighting, and a built-in microphone. The speaker also compatible with Windows, Mac, and Chrome OS.
+        </item>
+    </string-array>
+</resources>
